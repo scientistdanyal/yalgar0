@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yalgar0&label=Profile%20views&color=0e75b6&style=flat" alt="yalgar0" /> </p>
 
-- 🔭 I’m currently working on **Image Segmentation**
+- 🔭 I’m currently working on **Image Segmentation & ASR (real time automatic speech recognition)**
 
 - 🌱 I’m currently advancing my **DS and ML skills.**
 

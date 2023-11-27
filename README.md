@@ -6,7 +6,7 @@
 <!-- [![Medium](https://img.shields.io/badge/Medium-Follow%20Me-blue)](https://medium.com/@yennhi95zz/subscribe) -->
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-lightgrey)](https://github.com/yalgar0)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Follow%20Me-orange)](https://www.kaggle.com/yalgar0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-informational)](https://www.linkedin.com/in/yalgar0/) --> -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-informational)](https://www.linkedin.com/in/yalgar0/) --> 
 
 - 🔭 I’m currently working on **Image Segmentation & ASR (real time automatic speech recognition)**
 

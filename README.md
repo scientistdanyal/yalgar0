@@ -31,3 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yalgar0&show_icons=true&locale=en&layout=compact" alt="yalgar0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yalgar0&show_icons=true&locale=en" alt="yalgar0" /></p>
+https://drive.google.com/file/d/1yGskjL1MWLck3XoG41KzRxI2GleDQov6/view?usp=sharing

@@ -23,6 +23,7 @@
 <a href="https://linkedin.com/in/yalgar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yalgar0" height="30" width="40" /></a>
 <a href="https://kaggle.com/yalgar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yalgar0" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yalgar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yalgar0" height="30" width="40" /></a>
+<a href="https://www.fiverr.com/yalgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/fiverr.svg" alt="yalgar0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,4 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yalgar0&show_icons=true&locale=en&layout=compact" alt="yalgar0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yalgar0&show_icons=true&locale=en" alt="yalgar0" /></p>
-https://drive.google.com/file/d/1yGskjL1MWLck3XoG41KzRxI2GleDQov6/view?usp=sharing
+

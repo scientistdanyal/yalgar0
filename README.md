@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **python, scraping, data analytics, DS & ML**
 
-- 📫 How to reach me **scientistdanyal@gmail.com**
+- 📫 How to reach me **dk.yalgar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
